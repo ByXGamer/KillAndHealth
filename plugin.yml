@@ -1,0 +1,5 @@
+name: KillAndHealth
+author: ByXGamer
+main: KillAndHealth\Main
+version: 1.0
+api: [3.5.9]
